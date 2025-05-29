@@ -8,9 +8,9 @@ Only referrers that have earned at least 0.001 SOL in rewards will be paid in ea
 
 ## Finding your rewards balance
 
-To find your rewards balance, search for your wallet address in the json files below.
+To find your rewards balance, search for your wallet address in one of the json files.
 
-Each entry is shown as:
+Each entry shows the referrer, reward amount, itemized referrals and payout tx hash:
 
 ```json
 {
@@ -26,7 +26,7 @@ Each entry is shown as:
 }
 ```
 
-You can confirm the payout by searching for the tx hash in [Solscan](https://solscan.io/).
+You can confirm the payout by searching for the tx hash in a block explorer like [Solscan](https://solscan.io/).
 
 ## Data
 
